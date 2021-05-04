@@ -377,6 +377,7 @@
                                                         <br>
                                                         <div class="clearfix"></div>
                                                     </div>
+                                                        <br>
                                                     @endforeach
                                                     <div class="row text-center noMoreRequest">
                                                         No more service requests
