@@ -1,0 +1,204 @@
+.wrapper{
+    width: 375px;
+    border: 1px solid #888;
+}
+
+.header{
+    height:64px;
+    padding-top: 7px;
+}
+.panel-default>.panel-heading {
+    color: #FFF;
+    background-color: #008ab8;
+    border-color: #ddd;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #FFF;
+    text-decoration: underline;
+    background-color: #008ab8;
+    border: 0px;
+}
+
+.nav-tabs>li>a, .nav-tabs {
+    color: #FFF;
+    text-decoration: none;
+    border: 0px;
+    font-family: Roboto;
+}
+
+.nav-tabs>li>a:hover {
+    background-color: #008ab8;
+}
+
+.panel {
+    border: 0px solid transparent;
+}
+
+.nopadding{
+    padding:0px;
+}
+
+.list-inline>li{
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.sliderh1{
+    font-family: Roboto;
+    font-size: 15px;
+    color: #008AB8;
+    margin: 3px 0px 0px 0px;
+}
+
+.sliderh2{
+    font-family: Roboto;
+    font-size: 12px;
+    margin: 7px 0px 0px 0px;
+    color: #000;
+}
+
+.session{
+    text-align: left;
+    font-family: Roboto;
+    font-size: 12px;
+    color: #888888;
+    float: left;
+}
+
+.money{
+    text-align: right;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #D16800;
+    float: right;
+    padding-right: 2px;
+}
+
+.serviceTxt{
+    font-family: Roboto ;
+    font-size: 10px;
+    font-weight: lighter;
+    line-height: 10px;
+}
+
+.slider{
+    padding-left: 10px;
+    padding-right: 5px;
+    width: 370px;
+}
+
+.requestBookingBox{
+    width:355px;
+    height:360px;
+    border-radius: 5px;
+    border: 1px solid #888888;
+    padding: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 100px 0 rgba(0, 0, 0, 0.19);
+}
+
+.requestStatus{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #D16800;
+}
+
+.requestTime{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    color: #888;
+
+}
+
+.requestStatusContainer{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.requestStatusContainer{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.requestStatusContainerViewer{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.requestBy{
+    color: #008AB8;
+    font-family: Roboto;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.requestCity{
+    font-family: Roboto;
+    font-size: 10px;
+    color: #000;
+    padding-left: 5px;
+}
+
+.dealsHad{
+    padding-left: 10px;
+    font-family: Roboto;
+    font-size: 12px;
+}
+
+.serviceRequest{
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+.requestStatusContainerClock{
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 25px;
+}
+
+.requestAddress{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #008AB8;
+}
+
+.reschedule{
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.requestStatusMore{
+    padding-left: 10px;
+    text-align: center;
+    color: #008AB8;
+}
+
+.requestMore{
+    font-family: Roboto;
+    color: #008AB8;
+}
+
+.noMoreRequest{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #888;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.topicons{
+    margin-top: 15px;
+}
+
+.upcomingServiceMsg{
+    height: 66px;
+    width: 354px;
+    font-family: Roboto;
+    font-size: 11px;
+    padding: 10px;
+    color: #FFF;
+    background-color: #008AB8;
+    clear: both;
+    margin-bottom: 10px;
+}
